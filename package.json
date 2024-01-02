@@ -1,5 +1,5 @@
 {
-  "name": "react-reflex",
+  "name": "react-reflex-splitter",
   "version": "1.0.0",
   "description": "Flex layout component for advanced React web applications",
   "main": "dist/commonjs/index.js",
